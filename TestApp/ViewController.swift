@@ -9,6 +9,8 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    let number = 0
 
     override func viewDidLoad() {
         super.viewDidLoad()
